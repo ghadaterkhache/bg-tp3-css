@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225" width="400" height="225">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a1500"/><stop offset="1" stop-color="#0e0e12"/></linearGradient></defs>
+<rect width="400" height="225" fill="url(#g)"/>
+<polygon points="300,53 342,74.0 300,95 258,74.0" fill="#ff8f00"/><polygon points="258,74.0 300,95 300,137 258,116.0" fill="#ff8f00" fill-opacity=".65"/><polygon points="300,95 342,74.0 342,116.0 300,137" fill="#ff8f00" fill-opacity=".4"/><polygon points="255,120 285,135.0 255,150 225,135.0" fill="#ffb74d"/><polygon points="225,135.0 255,150 255,180 225,165.0" fill="#ffb74d" fill-opacity=".65"/><polygon points="255,150 285,135.0 285,165.0 255,180" fill="#ffb74d" fill-opacity=".4"/><polygon points="350,125 380,140.0 350,155 320,140.0" fill="#ffd180"/><polygon points="320,140.0 350,155 350,185 320,170.0" fill="#ffd180" fill-opacity=".65"/><polygon points="350,155 380,140.0 380,170.0 350,185" fill="#ffd180" fill-opacity=".4"/>
+<circle cx="26" cy="24" r="9" fill="none" stroke="#fff" stroke-opacity=".6" stroke-width="2"/>
+<text x="20" y="58" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#fff" fill-opacity=".75">Framework</text>
+<text x="20" y="120" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#fff">TensorFlow</text>
+<rect x="20" y="136" width="34" height="4" rx="2" fill="#ff8f00"/>
+<text x="20" y="205" font-family="Segoe UI,Arial,sans-serif" font-size="9" fill="#fff" fill-opacity=".6">NeuroLab AI Academy</text>
+</svg>

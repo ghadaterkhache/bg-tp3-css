@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225" width="400" height="225">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3b1d12"/><stop offset="1" stop-color="#0e0e12"/></linearGradient></defs>
+<rect width="400" height="225" fill="url(#g)"/>
+<g stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round">
+<path d="M215 70V45H240M360 45H385V70M385 160V185H360M240 185H215V160"/></g>
+<path d="M235 115Q300 60 365 115Q300 170 235 115Z" fill="none" stroke="#fff" stroke-width="3"/>
+<circle cx="300" cy="115" r="22" fill="#ff9a3c"/><circle cx="300" cy="115" r="9" fill="#10131c"/>
+<rect x="262" y="78" width="76" height="74" fill="none" stroke="#ff9a3c" stroke-width="2" stroke-dasharray="6 4"/>
+<circle cx="26" cy="24" r="9" fill="none" stroke="#fff" stroke-opacity=".6" stroke-width="2"/>
+<text x="20" y="58" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#fff" fill-opacity=".75">Images et vidéos</text>
+<text x="20" y="120" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#fff">Vision</text>
+<rect x="20" y="136" width="34" height="4" rx="2" fill="#ff9a3c"/>
+<text x="20" y="205" font-family="Segoe UI,Arial,sans-serif" font-size="9" fill="#fff" fill-opacity=".6">NeuroLab AI Academy</text>
+</svg>

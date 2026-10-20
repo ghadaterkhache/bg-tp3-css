@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225" width="400" height="225">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2d2600"/><stop offset="1" stop-color="#0e0e12"/></linearGradient></defs>
+<rect width="400" height="225" fill="url(#g)"/>
+<circle cx="300" cy="110" r="64" fill="#ffd21e"/>
+<circle cx="278" cy="95" r="8" fill="#3a2a00"/><circle cx="322" cy="95" r="8" fill="#3a2a00"/>
+<path d="M262 125Q300 170 338 125" fill="none" stroke="#3a2a00" stroke-width="6" stroke-linecap="round"/>
+<circle cx="258" cy="168" r="14" fill="#ffd21e"/><circle cx="342" cy="168" r="14" fill="#ffd21e"/>
+<circle cx="26" cy="24" r="9" fill="none" stroke="#fff" stroke-opacity=".6" stroke-width="2"/>
+<text x="20" y="58" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#fff" fill-opacity=".75">Modèles préentraînés</text>
+<text x="20" y="120" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#fff">Hugging Face</text>
+<rect x="20" y="136" width="34" height="4" rx="2" fill="#ffd21e"/>
+<text x="20" y="205" font-family="Segoe UI,Arial,sans-serif" font-size="9" fill="#fff" fill-opacity=".6">NeuroLab AI Academy</text>
+</svg>

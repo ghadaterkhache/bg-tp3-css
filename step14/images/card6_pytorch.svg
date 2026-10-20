@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225" width="400" height="225">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3a0d0d"/><stop offset="1" stop-color="#0e0e12"/></linearGradient></defs>
+<rect width="400" height="225" fill="url(#g)"/>
+<path d="M300 35C330 80 365 100 355 145C348 175 325 190 300 190C272 190 248 172 252 140C255 118 275 108 285 85C290 72 296 55 300 35Z" fill="#ee4c2c"/>
+<path d="M300 100C315 125 330 135 325 155C322 170 310 175 300 175C288 175 278 168 280 152C282 140 292 135 296 122Z" fill="#fff" fill-opacity=".85"/>
+<circle cx="26" cy="24" r="9" fill="none" stroke="#fff" stroke-opacity=".6" stroke-width="2"/>
+<text x="20" y="58" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#fff" fill-opacity=".75">Framework</text>
+<text x="20" y="120" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#fff">PyTorch</text>
+<rect x="20" y="136" width="34" height="4" rx="2" fill="#ee4c2c"/>
+<text x="20" y="205" font-family="Segoe UI,Arial,sans-serif" font-size="9" fill="#fff" fill-opacity=".6">NeuroLab AI Academy</text>
+</svg>
